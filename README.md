@@ -39,4 +39,4 @@ Feel free to explore my GitHub repositories to see examples of my work and proje
 <br/>
 
 📫 Email: mahmudmuhasin@gmail.com
-📱 LinkedIn: [Muhasin Mahmud](https://www.linkedin.com/in/muhasin-mahmud-5b6639164/)
+📱 LinkedIn: [Muhasin Mahmud](https://www.linkedin.com/in/muhasin-uddin-mahmud-5b6639164/)
