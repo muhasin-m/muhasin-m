@@ -4,7 +4,7 @@
 
 **`Fullstack Web Developer & Trainer`**
 
-Hello there! 👋 I'm Muhasin Mahmud, a passionate fullstack developer and Usability Engineering graduate from Germany. With a solid foundation in MSc Usability Engineering, I've honed my skills in crafting user-centric digital experiences. Professionally, I thrive as a Fullstack Web Developer Trainer, guiding aspiring developers through the intricacies of modern web development.
+Hello there! 👋 I'm Muhasin Mahmud, a passionate fullstack developer. With a solid foundation in MSc Usability Engineering, I've honed my skills in crafting user-centric digital experiences. Professionally, I thrive as a Fullstack Web Developer Trainer, guiding aspiring developers through the intricacies of modern web development.
 
 Feel free to explore my GitHub repositories to see examples of my work and projects. Let's connect and collaborate on innovative web solutions!
 
