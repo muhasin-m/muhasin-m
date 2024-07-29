@@ -4,9 +4,9 @@
 
 **`Fullstack Web Developer & Trainer`**
 
-Hello there! 👋 I'm Muhasin Mahmud, a passionate fullstack developer. With a solid foundation in MSc Usability Engineering, I've honed my skills in crafting user-centric digital experiences. Professionally, I thrive as a Fullstack Web Developer Trainer, guiding aspiring developers through the intricacies of modern web development.
+Hello! 👋 I'm Muhasin Mahmud, a fullstack developer with a strong background in MSc Usability Engineering. I specialize in creating user-friendly digital experiences. Currently, I work as a Fullstack Web Developer Trainer, helping new developers learn the skills they need.
 
-Feel free to explore my GitHub repositories to see examples of my work and projects. Let's connect and collaborate on innovative web solutions!
+Check out my GitHub to see my projects. Let's connect and work together on new web solutions!
 
 #
 
@@ -27,6 +27,7 @@ Feel free to explore my GitHub repositories to see examples of my work and proje
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" />
 <br />
 
 #
