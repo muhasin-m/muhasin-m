@@ -13,15 +13,15 @@ I build internal business tools and production web apps end to end, from databas
 - **Full-stack developer at Levy Holding AG** (automotive dealer group, Cologne). I own an internal dashboard on my own, from design to deployment:
   - **HR modules:** vacation planning, ticketing, seminar management
   - **BI / KPI layer:** analytics and reporting
-- **[Healthy Smile](https://github.com/muhasin-m/healthy-smile):** a platform for a pediatric dental clinic in Dhaka (see below)
-- **[Fundament](https://github.com/muhasin-m/fundament):** a TypeScript web app for learning German grammar from A1 to C2
+- **Healthy Smile:** a platform for a pediatric dental clinic in Dhaka, live at [healthysmiledhaka.com](https://healthysmiledhaka.com)
+- **Fundament:** a TypeScript web app for learning German grammar from A1 to C2
 
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[healthy-smile](https://github.com/muhasin-m/healthy-smile)** | Full-stack dental clinic platform: bilingual (EN/BN) marketing site, online appointment booking, and separate patient, doctor and admin portals. In production at [healthysmiledhaka.com](https://healthysmiledhaka.com). | Next.js 15 · Express · TypeScript · MongoDB |
-| **[fundament](https://github.com/muhasin-m/fundament)** | German grammar learning app covering CEFR levels A1–C2 | TypeScript |
+| **[Healthy Smile](https://healthysmiledhaka.com)** | Full-stack dental clinic platform: bilingual (EN/BN) marketing site, online appointment booking, and separate patient, doctor and admin portals. Live in production. | Next.js 15 · Express · TypeScript · MongoDB |
+| **Fundament** | German grammar learning app covering CEFR levels A1–C2 | TypeScript |
 | **[mern-estate](https://github.com/muhasin-m/mern-estate)** | Real estate app built on the MERN stack | MongoDB · Express · React · Node.js · Tailwind |
 
 ## 🧰 Tech stack
